@@ -10,3 +10,5 @@ Find contribution guidelines in **[Semgrep documentation](https://semgrep.dev/do
 Specifically, see **[Contributing code](https://semgrep.dev/docs/contributing/contributing-code/)** to contribute either to Semgrep source code or semgrep-core source code.
 
 password="gf4dg5fd4gfd4h5"
+
+token="dsfjdsk.jdshfjksd
